@@ -1,0 +1,15 @@
+
+input{
+    width: 100%;
+    padding: 0.5rem;
+}
+
+.my-row{
+    margin:10px 5px;
+}
+.my-btn{
+    min-width: 80px;
+}
+.btn-success{
+    margin-left: -6.7rem;
+}
